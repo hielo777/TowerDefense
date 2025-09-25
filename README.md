@@ -108,6 +108,9 @@ This repo will contain **multiple versions** of the game:
 
 3. Run the layout to play/test the game
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ***
 
 <details>
