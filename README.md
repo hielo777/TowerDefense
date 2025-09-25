@@ -14,7 +14,8 @@ This repository not only serves as a game prototype but also as a **learning res
 
 ***
 
-## 🎥 Background & Tutorial Context  
+<details>
+<summary> 🎥 Background & Tutorial Context   </summary>
 
 A few years ago, I created a **Tower Defense tutorial series for Construct 2** on YouTube.  
 This repo continues that journey by:  
@@ -22,20 +23,29 @@ This repo continues that journey by:
 - Rebuilding the mechanics with **modern features**  
 - Exploring **3D Object** integration for towers, enemies, and levels  
 
-*(Link to the original YouTube series if you want to reference it here)*  
+  
+[My Construct 2 tutorials](https://www.youtube.com/playlist?list=PL--2q5-ZaNx0ScJjiMBI38g9kWkG5cjtV)
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
 
 ***
 
-## 🖼️ Overview  
+<details>
+<summary> 🖼️ Overview   </summary>
 
 - **Genre:** Tower Defense  
 - **Engine:** [Construct 3](https://www.construct.net/)  
 - **Core Concept:** Place towers strategically to defeat waves of enemies before they reach the base.  
 - **Learning Goal:** Provide a modern reference for learners who want to follow along with the YouTube tutorials while experimenting with new C3 behaviors.  
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ***
 
-## 🎮 Gameplay Features  
+<details>
+<summary> 🎮 Gameplay Features  </summary> 
 
 - Build towers on designated spots  
 - Towers automatically attack enemies in range  
@@ -43,7 +53,9 @@ This repo continues that journey by:
 - Player earns resources to build and upgrade towers  
 - Use of **3D Object** for visuals and design variety  
 
-***
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
 
 <!--
 
@@ -63,7 +75,8 @@ This repo continues that journey by:
 
 ***
 
-## 🗂️ Project Structure  
+<details>
+<summary> 🗂️ Project Structure  </summary>
 
 This repo will contain **multiple versions** of the game:  
 - `v1-basic` → Core mechanics from the original tutorial  
@@ -71,11 +84,14 @@ This repo will contain **multiple versions** of the game:
 - `v3-experiments` → Alternate versions testing new behaviors (e.g., MoveTo)  
 - `partials/` → Partial files to follow along step-by-step  
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ***
 
-## 🚀 Getting Started  
+<details>
+<summary> 🚀 Getting Started </summary>
 
-***
 
 ### Requirements  
 - **Browser:** Latest Chrome, Firefox, or Edge  
@@ -94,7 +110,8 @@ This repo will contain **multiple versions** of the game:
 
 ***
 
-## 🎯 To Do
+<details>
+<summary> 🎯 To Do </summary>
  - [ ] Implement MoveTo behavior for enemies as an experiment
  - [ ] Add tower upgrades
  - [ ] Include sound effects and music
@@ -102,28 +119,43 @@ This repo will contain **multiple versions** of the game:
  - [ ] Add difficulty levels / wave system
  - [ ] Continue uploading partial project files for learners
 
+ <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+ </details>
+
 ***
 
-## 🧪 Playtesting
+<details>
+<summary> 🧪 Playtesting </summary>
 - Current State: Playable prototype
 - Feedback: Open an Issue with suggestions
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ***
 
-## 🚀 Publish
+<details>
+<summary> 🚀 Publish </summary>
 1. Export for Web (HTML5) in Construct 3
 2. Zip the exported folder (include index.html, media/, etc.)
 3. Upload to itch.io, set as HTML game, and configure viewport (e.g., 1280x720)
 4. Test the game in browser (desktop + mobile)
 5. Publish as Draft, Restricted, or Public
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ***
 
-## 🙏 Credits
+<details>
+<summary> 🙏 Credits </summary>
 - Tutorial Series: Original Construct 2 Tower Defense tutorials on YouTube (by me)
 - Game Design & Code: Diego Lizarazo (hielo777)
 - Art & Music: Placeholder / free assets
 - Community: Thanks to everyone following along!
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
 
 ***
 
