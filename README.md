@@ -5,7 +5,7 @@
 [![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://hielo777.github.io/TowerDefense/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/TowerDefense)
 
-# 🏰 Tower Defense (Construct 3)
+# 🏰🛡️🗡 Tower Defense (Construct 3)
 
 > A reimagined Tower Defense prototype built with **Construct 3**, inspired by my previous **Construct 2 YouTube tutorial series**.  
 > The main innovation in this version is the use of the **3D Object** feature in Construct 3, along with updated project files and mechanics.  
@@ -95,7 +95,7 @@ This repo will contain **multiple versions** of the game:
 
 ### Requirements  
 - **Browser:** Latest Chrome, Firefox, or Edge  
-- **Construct 3 Version:** r### or higher 
+- **Construct 3 Version:** r101 or higher 
 
 ***
 
